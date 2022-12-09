@@ -1,16 +1,37 @@
-# definitive_flutter
+# Expemse App 
 
-A new Flutter project.
+Application developed purely in Flutter.
 
-## Getting Started
+## Description. 
 
-This project is a starting point for a Flutter application.
+Application developed using Flutter, a programming language with
+a hybrid approach that allows you to develop both Android and IOS
+application. 
 
-A few resources to get you started if this is your first Flutter project:
+This simple app allows the user to easily create and manage lists, 
+which can be: 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- generic lists
+-shipping lists
+-lists of expenses made n a given period of time. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Structure
+This application is structured on 4 different "pages"
+including: 
+
+-a page that displays the information of the app
+-a page showing the Calendar and current day
+-a page that allows you to create lists by giving a name, 
+day and much more. 
+-a page (home) that allows you to access, view and edit 
+the lists created by ourselves. 
+
+This app has been developed individually to approach the 
+world oof Flutter, as if it were for fun, as it could be useful, 
+it has been made avaible on my github profile: 
+[https://github.com/DiscoHub12]
+
+Seceral libreries were used which can be found in the 
+pubsec.yaml file, especially taken from the 
+flutter official site : [https://flutter.dev/]
+
