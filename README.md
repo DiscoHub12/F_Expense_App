@@ -1,8 +1,8 @@
-# Expemse App 
+# Expese App 
 
 Application developed purely in Flutter.
 
-##Description. 
+# Description. 
 
 Application developed using Flutter, a programming language with
 a hybrid approach that allows you to develop both Android and IOS
@@ -29,9 +29,9 @@ the lists created by ourselves.
 This app has been developed individually to approach the 
 world oof Flutter, as if it were for fun, as it could be useful, 
 it has been made avaible on my github profile: 
-[https://github.com/DiscoHub12]
+https://github.com/DiscoHub12
 
 Seceral libreries were used which can be found in the 
 pubsec.yaml file, especially taken from the 
-flutter official site : [https://flutter.dev/]
+flutter official site : https://flutter.dev/
 
