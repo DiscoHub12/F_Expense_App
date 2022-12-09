@@ -2,7 +2,7 @@
 
 Application developed purely in Flutter.
 
-## Description. 
+##Description. 
 
 Application developed using Flutter, a programming language with
 a hybrid approach that allows you to develop both Android and IOS
@@ -12,8 +12,8 @@ This simple app allows the user to easily create and manage lists,
 which can be: 
 
 - generic lists
--shipping lists
--lists of expenses made n a given period of time. 
+- shipping lists
+- lists of expenses made n a given period of time. 
 
 ##Structure
 This application is structured on 4 different "pages"
