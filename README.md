@@ -15,7 +15,8 @@ which can be:
 - shipping lists
 - lists of expenses made n a given period of time. 
 
-##Structure
+# Structure
+
 This application is structured on 4 different "pages"
 including: 
 
