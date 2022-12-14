@@ -40,7 +40,7 @@ the folder via Visual Studio Code.
 Once the folder downloaded in VSCode has been opened, it is advisable 
 to write the following command in the VSCode terminal and then position 
 yourself in the root of the folder: 
-- flutter pub get 
+-flutter pub get 
 to download any packages 
 that have not been imported.
 To run the application in a virtual emulator, if you have one, just select 
