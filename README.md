@@ -20,11 +20,11 @@ which can be:
 This application is structured on 4 different "pages"
 including: 
 
--a page that displays the information of the app
--a page showing the Calendar and current day
--a page that allows you to create lists by giving a name, 
+- page that displays the information of the app
+- page showing the Calendar and current day
+- page that allows you to create lists by giving a name, 
 day and much more. 
--a page (home) that allows you to access, view and edit 
+- page (home) that allows you to access, view and edit 
 the lists created by ourselves. 
 
 This app has been developed individually to approach the 
